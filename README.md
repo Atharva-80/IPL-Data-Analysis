@@ -39,3 +39,14 @@ visuals/ - Charts and visualizations
 IPL_Analysis.ipynb - Complete analysis notebook
 
 Project_Insights.md - Summary of findings
+
+## Dataset
+
+The dataset used in this project is the IPL Complete Dataset available on Kaggle.
+
+Source:
+https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+
+Files used:
+- matches.csv
+- deliveries.csv
